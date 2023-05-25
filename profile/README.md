@@ -21,5 +21,5 @@ Design your haptics effects based on your audio. Extract the haptics features an
   + PlayStation 5 
 +  🖥️ PC 
   + Xinput Controllers
-
+  
 *Kind reminder: To get the PlayStation SDK to develop for the DualSense you are required to be part of the SIE partner program.*
