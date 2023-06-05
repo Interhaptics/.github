@@ -10,7 +10,7 @@ We wanted to experience haptics on all platforms, all peripherals, and all techn
 
 Design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool.  
 
-## 👇 Download Interhaptics Unity SDK  
+## 👇 Download Interhaptics Haptics SDK  
 
 + 📱 Smartphone
   + iOS
