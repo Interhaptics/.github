@@ -1,1 +1,1 @@
-Most of the repositories have migrated to https://github.com/WyvrnOfficial.
+All the Interhaptics repositories have been migrated to https://github.com/WyvrnOfficial.
